@@ -23,7 +23,7 @@ Our second milestone video link is below, check it out!
 
 ---
 ## reference
-The AR resource is reference from [here](https://github.com/jayantjain100/Augmented-Reality), it's so amazing, I learns a lot!
+The AR resource is reference from [here](https://github.com/jayantjain100/Augmented-Reality), it's so amazing, I learn a lot!
 
 Openpose we're using [Mediapipe](https://mediapipe.dev/), it's so convienient for laptop user.
 
