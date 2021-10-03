@@ -15,11 +15,14 @@ We use aruco markers and put the 3D model on it, player can drive our arduino ca
 And we will check the success image, if the area of marker is bigger than one specific value, we will consider that it's collision.  
 
 ### Openpose
-
+The driving pose we're reference from [here](https://github.com/fabian57fabian/OpenPose-to-robotics), we use the same way to control our auduino car.  
+The second way to control our car is based on the body points, you can check it below.  
+![bodypose 1](https://user-images.githubusercontent.com/79491377/135737599-40c7a1e8-b659-4ddd-8bc2-2b4164114771.gif)
 
 ## video link
 Our second milestone video link is below, check it out!  
 [second milestone](https://www.youtube.com/watch?v=LEmxmKcIMYo)
+
 
 ---
 ## reference
