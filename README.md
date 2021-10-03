@@ -3,6 +3,7 @@
 This is my Graduate Project on my college.  
 I didn't sort out files yet, plz wait a second, I will come back soon!  
 This version is not complete, because some private factor, we can't upload all of the img and video resource, so sorry about that.  
+And the detail about our car will be upload soon as well, thank you for your waiting.  
 
 ## how to play?
 ### how to execute...
