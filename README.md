@@ -8,7 +8,7 @@ And the detail about our car will be upload soon as well, thank you for your wai
 ## how to play?
 ### how to execute...
 We use Openpose from Mediapipe to check the body points of people, and calculate it to make people drive the arduino car.  
-You can run the Connecttest02.py file to execute this project, if you can't I think is lack of some resource, we're so sorry about that, maybe you can find some substitutions or alternatives.  
+You can run the Connecttest02.py file to execute this project, if you can't I think is beacause lack of some resource, we're so sorry about that, maybe you can find some substitutions or alternatives.  
 
 ### AR
 AR is reference from [here](https://github.com/jayantjain100/Augmented-Reality)!!! Thanks a lot!   
