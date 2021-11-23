@@ -5,6 +5,10 @@ I didn't sort out files yet, plz wait a second, I will come back soon!
 This version is not complete, because some private factor, we can't upload all of the img and video resource, so sorry about that.  
 And the detail about our car will be upload soon as well, thank you for your waiting.  
 
+## Code
+poseMain.py is to check our body points.  
+main_change.py is to check the image return from our arduino car.  
+
 ## how to play?
 ### how to execute...
 We use Openpose from Mediapipe to check the body points of people, and calculate it to make people drive the arduino car.  
