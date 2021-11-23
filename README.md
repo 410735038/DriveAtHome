@@ -14,7 +14,7 @@ You can run the Connecttest02.py file to execute this project, if you can't I th
 AR is reference from [here](https://github.com/jayantjain100/Augmented-Reality)!!! Thanks a lot!   
 We use aruco markers and put the 3D model on it, player can drive our arduino car and based on the image return from the car to recognize markers, if recognize successfully the 3D model will overlap on the marker.  
 And we will check the success image, if the area of marker is bigger than one specific value, we will consider that it's collision.  
-If collide correctly, we will overlay an effect after collision, you can check image below.  
+If collide correctly, we will overlay an effect after collision, you can check image below, and the green candy is 3D model.  
 ![image](https://user-images.githubusercontent.com/79491377/143031157-723de0ec-5185-41c5-b1ad-701dafb36d34.png)
 
 
